@@ -164,6 +164,7 @@
 	display: flex;
 	justify-content: space-between;
 	flex-wrap: wrap;
+	padding: 0;
 }
 
 .table_margin-bottom_xl {
@@ -172,6 +173,7 @@
 
 .table__cell {
 	width: 250px;
+	list-style: none;
 	margin-top: 60px;
 	margin-right: 0;
 	color: #000;
