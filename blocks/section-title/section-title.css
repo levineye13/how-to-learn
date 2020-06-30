@@ -1,0 +1,14 @@
+@import url('./_margin-top/section-title_margin-top_xl.css');
+@import url('./_margin-top/section-title_margin-top_l.css');
+@import url('./_theme/section-title_theme_dark.css');
+
+.section-title {
+	width: 60%;
+	line-height: 69px;
+	font-size: 60px;
+	font-weight: 700;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 0;
+	text-align: center;
+}
