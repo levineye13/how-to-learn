@@ -1,6 +1,6 @@
 .feynman__link {
 	position: absolute;
-	top: 0;
+	top: 50%;
 	right: 48px;
 	text-decoration: none;
 	line-height: 51px;
